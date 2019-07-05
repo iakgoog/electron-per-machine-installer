@@ -1,0 +1,21 @@
+{
+  "name": "electron-per-machine-installer",
+  "version": "0.1.0",
+  "description": "A minimal experimental per-machine Electron installer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/iakgoog/electron-per-machine-installer",
+  "keywords": [
+    "Electron",
+    "demo",
+    "per-machine",
+    "installer"
+  ],
+  "author": "Sutthinart Khunvadhana",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
